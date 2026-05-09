@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahana-john-s-roofing-2605090959.netlify.app/sitemap.xml
