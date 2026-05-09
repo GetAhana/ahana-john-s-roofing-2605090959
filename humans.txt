@@ -1,0 +1,10 @@
+/* TEAM */
+Business: John Roofers
+Contact: john@johnroofing.com
+Site: https://ahana-john-s-roofing-2605090959.netlify.app
+
+/* THANKS */
+Templates: Ahana starter bundle
+
+/* STANDARDS */
+Language: en
